@@ -357,6 +357,13 @@ const skills = {
           },
         },
         {
+          skillName: "Swift",
+          fontAwesomeClassname: "simple-icons:swift",
+          style: {
+            color: "#FF4F00",
+          },
+        },
+        {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: {
