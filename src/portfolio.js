@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Zhir Jamil",
   subTitle: "Full Stack Developer, Data analysts, cybersecurity professional 🔥. Always learning.",
   resumeLink:
-    "/resume.pdf", 
+    "/portfolio/resume.pdf", 
   mail: "mailto:zheerjameel5@gmail.com",
 };
 
